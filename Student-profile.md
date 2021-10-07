@@ -19,7 +19,7 @@ Cohort 1
   __Student_TODO:__
 
   - Degrees Completed:    
-        eg: BSc(Hons) Information Systems '20
+        eg: BSc(Hons) Information Systems'20
   - Top 3 Technical skills:    
         Java, SQL, Python
   - Top 3 Personal strengths:   
